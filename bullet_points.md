@@ -1,0 +1,141 @@
+- Datacurve is a private, seed-stage AI Training Data company founded in 2024 by Y Combinator alumni.  
+- Company reached a near 8-figure annualized run rate in under one year (as of early 2025).  
+- Raised $3.6 million in a Seed round (March 2024) led by Neo.  
+- Team consists of 19 employees (as of December 2024).  
+- Achieved 1636.36% YoY headcount growth (as of December 2024).  
+- Platform has over 14,000 vetted software engineers (as of June 2024).  
+- Market for AI training datasets projected to grow from $2.6B in 2024 to $18.9B by 2034 (CAGR 22.2%).  
+- Datacurve capturing the $500M+ code-specific AI training data market, expanding at over 20% annually.  
+
+- Company name: Datacurve (also referenced as Datacurve.ai)
+- Website: https://datacurve.ai/
+- One-liner description: "Datacurve provides high-quality, expert-vetted coding data for training and evaluating large language models (LLMs)"
+- Headquarters: San Francisco, CA, USA
+- Year founded: 2024
+- Company stage: Private
+- Founders: Serena Ge and Charley Lee
+- Serena Ge background: Early software developer, University of Waterloo CS, 12+ years in AI SaaS and UX
+- Charley Lee background: University of Waterloo CS, recognized in Forbes 30 Under 30 for Datacurve, no peer-reviewed publications as of August 2025
+- Current headcount: 19 employees (as of December 2024)
+- Total funding raised: $3.6 million (Seed round, March 2024)
+- Last funding round: Seed, March 2024, Amount: $3.6 million
+- Key investors: Neo (lead), General Catalyst, Samsung Next, AIX Ventures, Angel investors
+
+- Regions served: Implied global reach, primary operations in North America.
+- Target market: Foundation model labs, AI dev-tool startups, enterprises developing LLMs.
+- Company founded in 2024; Seed round in March 2024; platform operational as of June 2024.
+- Private company; no IPO.
+- Pivoted from UncleGPT to Datacurve's focus during Y Combinator.
+- Recognized in Forbes 30 Under 30 (founders).
+- Joined Y Combinator accelerator.
+- Strategic partnership with Swiirl announced July 30, 2025.
+- Headcount growth: 1636.36% YoY, 26.49% MoM (as of December 2024).
+- Monthly website visitors: 21.1K (as of December 2024).
+- Over 14,000 vetted engineers in contributor pool (as of June 2024).
+- Mission: Deliver top-tier, curated coding data for AI model training.
+- Vision: Empower developers to build capable AI systems with high-quality training data.
+- Core offering: Expert-vetted, high-quality coding data for LLM training.
+- Custom gamified, bounty-based system attracting top engineers.
+- Data specialties: SFT, RLHF, agentic data for RL environments.
+- All data is expert-vetted; rigorous quality control in gamified structure.
+
+- Deep specialization in coding data for LLMs.
+- Gamified, bounty-based platform for high-quality, scalable data creation.
+- Expert-vetted data from top competitive programmers and engineers.
+- Rapid scaling and integration with client research teams.
+- Main competitors in 2025: Scale AI, Surge AI, Labelbox, Humanloop, in-house data teams at foundation model labs.
+- AI code generation tool market size: \$6.22B in 2025, CAGR 27.1% through 2033.
+- AI training dataset market: \$2.6B in 2024, projected \$18.9B by 2034, CAGR 22.2%.
+- Code-specific AI training data segment estimated at \$500M-\$1B in 2025.
+- Serena Ge and Charley Lee met as University of Waterloo CS students.
+- Creation of Datacurve motivated by Serena's internship experience.
+- Datacurve launched at age 19 and joined Y Combinator.
+- Serena's personal growth and exploration shaped the company's vision.
+- Serena Ge: Co-founder.
+- Charley Lee: Co-founder and CTO.
+- Datacurve LinkedIn provided for company information.
+- Gamified bounty platform turns data projects into competitive "Quests".
+- Quality control through expert review, automated checks, and motivation.
+- Platform supports rapid scaling to meet tight timelines.
+- Challenges addressed include noisy data, lack of diversity, annotation errors, and security issues.
+
+- Clients include leading foundation model labs and enterprises (no specific names disclosed as of June 2024).
+- Strategic partnership with Swiirl announced on July 30, 2025.
+- No publicly available customer case studies; internal case studies developed for product decisions.
+- No relevant news announcements after August 20, 2024.
+- All data points validated as of June 2024 unless noted otherwise.
+- Funding and investor details from March 2024 (Crunchbase, PitchBook, TechCrunch).
+- Headcount, website traffic, and growth metrics available as of December 2024.
+- Platform contributor pool validated as of June 2024.
+
+- AI dev-tool startups
+- Organizations developing large language models (LLMs)
+- Leading foundation model labs
+- Enterprises and AI companies focusing on code generation
+- Customers needing expert-vetted coding datasets
+- Primary verticals: Artificial Intelligence, Software Engineering, Data Infrastructure for LLMs
+- Secondary verticals: Education, Enterprise IT, Research
+- Training and evaluating LLMs for code tasks
+- Code debugging, completion, and generation
+- Offering expert-vetted, high-quality coding data
+- Custom gamified platform for data quality
+- Attracting skilled software engineers for data creation
+- Rapid scaling with client research teams
+- Supporting timely delivery for model release
+- Ensuring precision for advanced AI training
+
+- Custom gamified, bounty-based platform for coding data creation
+- Data-as-a-Service (DaaS) for coding datasets
+- Platform for expert-vetted data generation
+- Cloud-based platform
+- Seamless integration with client research teams
+- Data delivered in formats suitable for LLM training pipelines
+- Sales-led for enterprise/foundation model labs
+- Product-led elements via platform engagement for engineers
+- Direct sales to foundation model labs and enterprises
+- Custom gamified, bounty-based platform attracts skilled engineers for data creation
+- Community and network building actively seeking introductions to more foundation model labs
+- Industry partnerships and Y Combinator network
+- All information validated as of June 2024
+
+- Primary modality: Code for LLM training and evaluation
+- Secondary modality: N/A
+- Approach: Datacurve is a data provider, not a model developer
+- Model development: N/A
+- Open/closed status: N/A
+- License details: N/A
+- Models used/built: N/A
+- Model architecture: N/A
+- RAG implementation: N/A
+- Vector database: N/A
+- Data strategy: Expert-vetted coding data curated by experienced software engineers
+- Custom gamified, bounty-based platform to attract and retain skilled software engineers for data creation
+
+- N/A (No mention of function calling, API integration, or agentic tool use)
+- N/A (No mention of multi-step reasoning or planning algorithms)
+- N/A (No mention of agent orchestration or collaboration)
+- N/A (No mention of safety measures or human-in-the-loop requirements for agents; human-in-theloop applies to data vetting, not agent autonomy)
+- "Expert-vetted coding data curated by experienced software engineers"
+- "Data is created and reviewed by skilled software engineers"
+- "Gamified, bounty-based platform to attract and retain skilled software engineers for data creation"
+- No mention of use of public web, synthetic data, or customer data
+- N/A (No explicit mention of consent posture or data licensing approach)
+- "Emphasis on high-quality, accurate, and diverse coding datasets"
+- "All data is expert-vetted to ensure precision and reliability"
+- "Gamified structure is integrated with rigorous quality control, ensuring that only the best submissions are accepted and rewarded"
+- N/A (No mention of cloud providers, on-premise, or edge deployment)
+- N/A (No mention of PyTorch, JAX, TensorFlow, etc.)
+- N/A (No mention of Triton, vLLM, TF-Serving, etc.)
+- N/A (No mention of Ray, Kubernetes, etc.)
+- N/A (No mention of quantization, LoRA/QLoRA, distillation, caching, speculative decoding)
+
+- No mention of performance optimizations.
+- No mention of resource optimization.
+- All information extracted as of June 2024.
+- "Expert-vetted coding data curated by experienced software engineers."
+- "Custom gamified, bounty-based platform to attract and retain skilled software engineers for data creation."
+- "Emphasis on high-quality, accurate, and diverse coding datasets."
+- "Gamified structure is integrated with rigorous quality control."
+- No technical documentation referenced.
+- No explicit quantitative performance metrics available.
+
