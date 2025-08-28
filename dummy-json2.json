@@ -1,0 +1,178 @@
+{
+  "success": true,
+  "data": {
+    "help_deeplink": "help deeplink",
+    "background_illustration": {
+      "type": "icon/ darkroom/ illustration",
+      "value": "darkroom/illustration/empty_state/empty_state_illustration",
+      "color": "icon_dynamic_default"
+    },
+    "is_polling_required": false,
+    "analytic": {
+      "event_name": "Pinjaman Dashboard Page Viewed",
+      "event_type": "page",
+      "properties": {
+        "page_type": "default"
+      }
+    },
+    "divs": [
+      {
+        "view_id": "loan-limit-info",
+        "view_type": "loan_limit_panel",
+        "content": {
+          "header": {
+            "title": {
+              "text": "Limit"
+            },
+            "leading_icon": {
+              "type": "icon/ illustration/ darkroom",
+              "value": "darkroom/illustration/empty_state/empty_state_illustration",
+              "color": "icon_dynamic_default"
+            },
+            "trailing_icon": {
+              "type": "icon/ darkroom/ illustration",
+              "value": "darkroom/illustration/empty_state/empty_state_illustration",
+              "color": "icon_dynamic_default"
+            }
+          },
+          "detail": {
+            "title": {
+              "text": "Available Limit"
+            },
+            "amount": {
+              "text": "Rp2.000.000 check Pra for currency type"
+            },
+            "progress": {
+              "value": 0.5,
+              "color": "progress_bar_default"
+            },
+            "progress_label": {
+              "text": "Available Limit"
+            }
+          },
+          "sub_detail": {
+            "color": "background_color",
+            "leading_icon": {
+              "type": "icon/ darkroom/ illustration/lottie",
+              "value": "lottie dark room url",
+              "color": "icon_dynamic_default"
+            },
+            "trailing_icon": {
+              "type": "icon/ darkroom/ illustration/lottie",
+              "value": "lottie dark room url",
+              "color": "icon_dynamic_default"
+            },
+            "title": {
+              "text": "You need personal Info on something"
+            },
+            "subtitle": {
+              "text": "Transaction date"
+            },
+            "cta": {
+              "id": "help/ signin",
+              "type": "DEEPLINK",
+              "style": "primary/ secondary",
+              "state": "active",
+              "value": "gopay://unified-transfers/enteramount?money_request_id=123&beneficiary_identifier=62812341234&beneficiary_type=BENEFICIARY_PHONE_NO&transfer_amount=10000&currency=IDR&&deeplink_source=to_be_paid_list",
+              "title": {
+                "text": "Sign"
+              },
+              "icon": {
+                "type": "icon/ darkroom/ illustration/lottie",
+                "value": "lottie dark room url",
+                "color": "icon_dynamic_default"
+              }
+            }
+          }
+        }
+      },
+      {
+        "view_id": "loan-action",
+        "view_type": "loan_action_panel",
+        "content": {
+          "actions_list": [
+            {
+              "id": "withdraw-loan",
+              "type": "DEEPLINK",
+              "style": "primary/ secondary",
+              "state": "active/inactive",
+              "value": "deeplink value",
+              "title": {
+                "text": "Withdraw"
+              },
+              "icon": {
+                "type": "icon/ darkroom/ illustration",
+                "value": "navigation24NextIos",
+                "color": "icon_dynamic_default"
+              }
+            },
+            {
+              "id": "repay-loan",
+              "type": "DEEPLINK",
+              "style": "primary/ secondary",
+              "state": "active/inactive",
+              "value": "deeplink value",
+              "title": {
+                "text": "Repay"
+              },
+              "icon": {
+                "type": "icon/ darkroom/ illustration",
+                "value": "navigation24NextIos",
+                "color": "icon_dynamic_default"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "view_id": "loan-due-list",
+        "view_type": "loan_due_list_panel",
+        "content": {
+          "header": {
+            "title": {
+              "text": "Due List"
+            },
+            "cta": {
+              "id": "view-due-list",
+              "type": "OPEN_DUE_LIST_PAGE",
+              "style": "primary/ secondary",
+              "state": "active/inactive",
+              "title": {
+                "text": "View All"
+              }
+            }
+          },
+          "default_detail": {
+            "title": {
+              "text": "Your due in 30 days will be shown here, so its easier for you to check"
+            },
+            "icon": {
+              "type": "icon/ darkroom/ illustration",
+              "value": "navigation24NextIos",
+              "color": "icon_dynamic_default"
+            }
+          },
+          "due_list": [
+            {
+              "id": "due_list_1",
+              "icon": {
+                "type": "icon/ darkroom/ illustration",
+                "value": "navigation24NextIos",
+                "color": "icon_dynamic_default"
+              },
+              "title": {
+                "text": "Due date"
+              },
+              "subtitle": {
+                "text": "Transaction date"
+              },
+              "amount": {
+                "text": "Rp2.000.000 "
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
